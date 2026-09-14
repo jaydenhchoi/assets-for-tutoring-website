@@ -1,2 +1,2 @@
-# LXA-tutoring-assets
+# assets-for-tutoring-website
 Assets for LXA tutoring website
